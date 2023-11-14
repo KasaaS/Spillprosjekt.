@@ -4,7 +4,8 @@ crazy tile game
 
 Todo:
 
-- [ ] skisse
-- [ ] klasser og arv
-- [ ] bevegelse
+- [x] skisse
+- [x] klasser og arv
+- [x] bevegelse
+- [ ] gulv
 - [ ] miste liv / dø
