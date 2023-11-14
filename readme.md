@@ -6,6 +6,7 @@ Todo:
 
 - [x] skisse
 - [x] klasser og arv
-- [x] bevegelse
-- [ ] gulv
-- [ ] miste liv / dø
+- [x] gulv
+- [ ] bevegelse
+- [ ] miste liv / dø - collider
+- [ ] boss angrep om jeg rekker
