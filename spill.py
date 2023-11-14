@@ -53,7 +53,7 @@ while True:
     # 3. Oppdater spill
 
     # 4. Tegn
-    vindu.fill("white")
+    vindu.fill("black")
 
     for i in range(len(brett)):
         brett[i].tegn(vindu)
